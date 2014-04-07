@@ -1,7 +1,7 @@
 /**
  * This is a class which creates a data type to perform a series of computational experiments for Percolation
  * @version 02/19/2014
- * @author Zhihao Zou
+ * @author
  */
 public class PercolationStats 
 {
